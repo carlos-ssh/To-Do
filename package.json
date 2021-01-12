@@ -1,0 +1,23 @@
+{
+  "name": "to-do",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlos-ssh/To-Do.git"
+  },
+  "author": "Carlos-SSH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlos-ssh/To-Do/issues"
+  },
+  "homepage": "https://github.com/carlos-ssh/To-Do#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^16.2.0"
+  }
+}
